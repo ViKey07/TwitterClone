@@ -8,6 +8,9 @@ Check out [LIVE Twitter clone DEMO](https://twitterclone-1.ved7.repl.co/) here!!
 
 
 <img width="624" alt="Screenshot 2022-11-21 at 3 36 04 AM" src="https://user-images.githubusercontent.com/99425379/202928807-b3747073-4da8-453f-9fe1-d8d6d47eeb02.png">
+
+
+
 ## Tech used
 ```
 * Html
